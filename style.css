@@ -1,0 +1,36 @@
+
+#app {
+    padding: 200px 0;
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+#app img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 5px solid transparent;
+}
+.male{
+    background: #059862;
+    border-color: #059862;
+}
+.female{
+    background: #DF3FA2;
+    border-color: #DF3FA2;
+}
+#app button {
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 15px;
+    border-radius: 25px;
+    cursor: pointer;
+}
+#app h1 {
+    color: #444;
+}
+#app span {
+    font-weight: bold;
+}
